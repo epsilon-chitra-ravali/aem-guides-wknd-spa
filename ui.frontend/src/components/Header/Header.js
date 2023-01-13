@@ -1,4 +1,4 @@
-import { useState } from 'react';
+import React, { useState } from "react";
 import logo from '../../images/inc-india-logo-black.svg';
 import './Header.scss';
 
@@ -149,7 +149,7 @@ function Header() {
             <div className="collapse navbar-collapse" id="navbarContent">
               <ul className="navbar-nav mr-auto">
                 <li className="dropdown dropdown-megamenu nav-item" data-tags="inc-v2:region/e,inc-v2:region/w,inc-v2:region/c,inc-v2:region/ne,inc-v2:region/n,inc-v2:region/s">
-                  <a className="dropdown-toggle nav-link" onClick={expandDestinationsMenu} title="Destinations"  >Destinations</a>
+                  <h3 className="dropdown-toggle nav-link" onClick={expandDestinationsMenu} title="Destinations"  >Destinations</h3>
                   {expandDestinations && <div className="dropdown-container Destinations">
                     <div className="container pt-5">
                       <div className="row">
@@ -176,7 +176,7 @@ function Header() {
                   </div>}
                 </li>
                 <li className="dropdown dropdown-megamenu nav-item" data-tags="inc-v2:region/e,inc-v2:region/w,inc-v2:region/c,inc-v2:region/ne,inc-v2:region/n,inc-v2:region/s">
-                  <a onClick={expandExperiencesMenu} title="Experiences" className="dropdown-toggle nav-link" >Experiences</a>
+                  <h3 onClick={expandExperiencesMenu} title="Experiences" className="dropdown-toggle nav-link" >Experiences</h3>
                   {expandExperiences && <div className="dropdown-container Experiences">
                     <div className="container pt-5">
                       <div className="row">
@@ -203,7 +203,7 @@ function Header() {
                   </div>}
                 </li>
                 <li className="dropdown dropdown-megamenu nav-item" data-tags="inc-v2:region/e,inc-v2:region/w,inc-v2:region/c,inc-v2:region/ne,inc-v2:region/n,inc-v2:region/s">
-                  <a onClick={expandTravelMenu} title="Travel" className="dropdown-toggle nav-link">Travel</a>
+                  <h3 onClick={expandTravelMenu} title="Travel" className="dropdown-toggle nav-link">Travel</h3>
                   {expandTravel && <div className="dropdown-container Travel">
                     <div className="container pt-5">
                       <div className="row">

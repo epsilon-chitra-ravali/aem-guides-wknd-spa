@@ -1,10 +1,10 @@
+import React from "react";
 import './Footer.scss';
 import logo from '../../images/inc-india-logo-white.svg';
 
 function Footer() {
 
-  const data = [
-    {
+  const UT = {
       caption: "UT Tourism Websites",
       details: [
         { name: "Andaman and Nicobar", url: "https://www.andaman.gov.in" },
@@ -17,7 +17,9 @@ function Footer() {
         { name: "Lakshadweep", url: "https://www.lakshadweeptourism.com" },
         { name: "Puducherry", url: "http://www.pondytourism.in" }
       ]
-    }, {
+    } 
+    
+  const contact = {
       caption: "Contact Details",
       details: [
         { name: "Under Secretary (IT)" },
@@ -27,8 +29,7 @@ function Footer() {
         { name: "New Delhi" },
         { name: "☏ +91-011 23311237" },
         { name: "✉ info.mot@gov.in" }]
-    }
-  ];
+    };
 
   const states = {
     caption: "State Tourism Websites",
@@ -62,7 +63,6 @@ function Footer() {
       { name: "Uttarakhand", url: "https://uttarakhandtourism.gov.in" },
       { name: "West Bengal", url: "http://www.wbtourismgov.in" },
     ]
-
   }
 
   const footer = [
@@ -145,12 +145,11 @@ function Footer() {
                 </ul>
               </div>
             </div>
-            {data.map((item) => (
               <div class="col-lg-3 col-md-6 footer-link-item">
-                <h5 class="title title-xs">{item.caption}</h5>
+                <h5 class="title title-xs">{UT.caption}</h5>
                 <div class="state-tourism">
                   <ul class="list-inline footer-nav list-inline">
-                    {item.details.map((detail) => (
+                    {UT.details.map((detail) => (
                       <li>
                         <a href={detail.url} title={detail.name} target="_blank">
                           {detail.name}
@@ -160,7 +159,18 @@ function Footer() {
                   </ul>
                 </div>
               </div>
-            ))}
+              <div class="col-lg-3 col-md-6 footer-link-item">
+                <h5 class="title title-xs">{contact.caption}</h5>
+                <div class="state-tourism">
+                  <ul class="list-inline footer-nav list-inline">
+                    {contact.details.map((detail) => (
+                      <li href={detail.url} title={detail.name} target="_blank">
+                          {detail.name}
+                      </li>
+                    ))}
+                  </ul>
+                </div>
+              </div>
           </div>
           <div class="row">
             <div class="col-12">
