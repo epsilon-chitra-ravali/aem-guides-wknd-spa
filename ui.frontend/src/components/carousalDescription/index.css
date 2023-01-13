@@ -1,0 +1,9 @@
+.readText {
+  color: blue;
+  text-align: center;
+  display: block;
+  cursor: pointer;
+}
+.carousalDescription {
+  padding: 3rem 0;
+}

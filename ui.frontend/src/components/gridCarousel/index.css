@@ -1,0 +1,7 @@
+.hstack {
+  display: flex !important;
+}
+.gridCarouselHeader {
+  text-align: center;
+  padding: 2rem 0rem 0rem;
+}
