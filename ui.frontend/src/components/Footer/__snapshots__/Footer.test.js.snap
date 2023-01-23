@@ -1,0 +1,1632 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`DSTGridviewMicroFE test should match Snapshot: s1 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <footer>
+        <div
+          class="section no-title brand-section pb-5"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="owl-carousel brand-carousel owl-theme owl-loaded owl-drag"
+              data-size="9"
+            >
+              <div
+                class="owl-stage-outer"
+              >
+                <div
+                  class="owl-stage"
+                  style="transform: translate3d(0px, 0px, 0px); transition: all 0s linear 0s; width: 1101px;"
+                >
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="https://rtsoi.org"
+                        rel="noopener"
+                        target="_blank"
+                        title="Responsible Tourism Society of India (RTSOI)"
+                      >
+                        <img
+                          alt="Responsible Tourism Society of India (RTSOI)"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="RTSOI_Logo.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="https://indianvisaonline.gov.in/evisa/tvoa.html"
+                        rel="noopener"
+                        target="_blank"
+                        title="E-Visa"
+                      >
+                        <img
+                          alt="E-Visa"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="eivsa.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="https://www.india.gov.in/"
+                        rel="noopener"
+                        target="_blank"
+                        title="List of Indian Missions Abroad"
+                      >
+                        <img
+                          alt="List of Indian Missions Abroad"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="gov-india-logo.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="https://www.the-maharajas.com"
+                        rel="noopener"
+                        target="_blank"
+                        title="Maharaja"
+                      >
+                        <img
+                          alt="Maharaja"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="maharaja.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="https://www.iato.in"
+                        rel="noopener"
+                        target="_blank"
+                        title="IATO"
+                      >
+                        <img
+                          alt="IATO"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="iato.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="http://www.icpb.in"
+                        rel="noopener"
+                        target="_blank"
+                        title="ICPB"
+                      >
+                        <img
+                          alt="ICPB"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="icpb.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="http://www.atoai.org/"
+                        rel="noopener"
+                        target="_blank"
+                        title="ATOI"
+                      >
+                        <img
+                          alt="ATOI"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="atoai-color.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="http://www.indiahealthcaretourism.com/"
+                        rel="noopener"
+                        target="_blank"
+                        title="India Health Tourism"
+                      >
+                        <img
+                          alt="India Health Tourism"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="indian-healthcare-tourism.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                  <div
+                    class="owl-item active"
+                    style="width: 107.289px; margin-right: 15px;"
+                  >
+                    <div
+                      class="item text-center"
+                    >
+                      <a
+                        class="no-underline"
+                        href="https://nabh.co"
+                        rel="noopener"
+                        target="_blank"
+                        title="NABH"
+                      >
+                        <img
+                          alt="NABH"
+                          class="img-fluid lazyloaded"
+                          loading="lazy"
+                          src="nabh.png"
+                        />
+                      </a>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <section
+          class="section footer footer-nav-section pt-5"
+        >
+          <div
+            class="container"
+          >
+            <div
+              class="row rowwise"
+            >
+              <div
+                class="col-lg-8 col-md-7 col-xl-7 footer-link-item"
+              >
+                <h5
+                  class="title title-xs"
+                >
+                  State Tourism Websites
+                </h5>
+                <div
+                  class="state-tourism"
+                >
+                  <ul
+                    class="list-inline footer-nav footer-important"
+                  >
+                    <li>
+                      <a
+                        href="https://tourism.ap.gov.in"
+                        target="_blank"
+                        title="Andhra Pradesh"
+                      >
+                        Andhra Pradesh
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.arunachaltourism.com"
+                        target="_blank"
+                        title="Arunachal Pradesh"
+                      >
+                        Arunachal Pradesh
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://tourism.assam.gov.in"
+                        target="_blank"
+                        title="Assam"
+                      >
+                        Assam
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://tourism.bihar.gov.in"
+                        target="_blank"
+                        title="Bihar"
+                      >
+                        Bihar
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.chhattisgarhtourism.in"
+                        target="_blank"
+                        title="Chhattisgarh"
+                      >
+                        Chhattisgarh
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://goa-tourism.com"
+                        target="_blank"
+                        title="Goa"
+                      >
+                        Goa
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.arunachaltourism.com"
+                        target="_blank"
+                        title="Gujarat"
+                      >
+                        Gujarat
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://haryanatourism.gov.in"
+                        target="_blank"
+                        title="Haryana"
+                      >
+                        Haryana
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://himachaltourism.gov.in"
+                        target="_blank"
+                        title="Himachal Pradesh"
+                      >
+                        Himachal Pradesh
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://tourism.jharkhand.gov.in"
+                        target="_blank"
+                        title="Jharkhand"
+                      >
+                        Jharkhand
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.karnatakatourism.org"
+                        target="_blank"
+                        title="Karnataka"
+                      >
+                        Karnataka
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.keralatourism.org"
+                        target="_blank"
+                        title="Kerala"
+                      >
+                        Kerala
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.mptourism.com"
+                        target="_blank"
+                        title="Madhya Pradesh"
+                      >
+                        Madhya Pradesh
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.maharashtratourism.gov.in"
+                        target="_blank"
+                        title="Maharashtra"
+                      >
+                        Maharashtra
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://manipurtourism.gov.in"
+                        target="_blank"
+                        title="Manipur"
+                      >
+                        Manipur
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.meghalayatourism.in"
+                        target="_blank"
+                        title="Meghalaya"
+                      >
+                        Meghalaya
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://tourism.mizoram.gov.in"
+                        target="_blank"
+                        title="Mizoram"
+                      >
+                        Mizoram
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://tourism.nagaland.gov.in"
+                        target="_blank"
+                        title="Nagaland"
+                      >
+                        Nagaland
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://odishatourism.gov.in"
+                        target="_blank"
+                        title="Odisha"
+                      >
+                        Odisha
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://punjabtourism.punjab.gov.in"
+                        target="_blank"
+                        title="Punjab"
+                      >
+                        Punjab
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://tourism.rajasthan.gov.in"
+                        target="_blank"
+                        title="Rajasthan"
+                      >
+                        Rajasthan
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.sikkimtourism.gov.in"
+                        target="_blank"
+                        title="Sikkim"
+                      >
+                        Sikkim
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.tamilnadutourism.org"
+                        target="_blank"
+                        title="Tamil Nadu"
+                      >
+                        Tamil Nadu
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.telanganatourism.gov.in"
+                        target="_blank"
+                        title="Telangana"
+                      >
+                        Telangana
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://tripuratourism.gov.in"
+                        target="_blank"
+                        title="Tripura"
+                      >
+                        Tripura
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.uptourism.gov.in"
+                        target="_blank"
+                        title="Uttar Pradesh"
+                      >
+                        Uttar Pradesh
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://uttarakhandtourism.gov.in"
+                        target="_blank"
+                        title="Uttarakhand"
+                      >
+                        Uttarakhand
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.wbtourismgov.in"
+                        target="_blank"
+                        title="West Bengal"
+                      >
+                        West Bengal
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div
+                class="col-lg-3 col-md-6 footer-link-item"
+              >
+                <h5
+                  class="title title-xs"
+                >
+                  UT Tourism Websites
+                </h5>
+                <div
+                  class="state-tourism"
+                >
+                  <ul
+                    class="list-inline footer-nav list-inline"
+                  >
+                    <li>
+                      <a
+                        href="https://www.andaman.gov.in"
+                        target="_blank"
+                        title="Andaman and Nicobar"
+                      >
+                        Andaman and Nicobar
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://chandigarhtourism.gov.in"
+                        target="_blank"
+                        title="Chandigarh"
+                      >
+                        Chandigarh
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.tourismdddnh.in"
+                        target="_blank"
+                        title="Dadra and Nagar Haveli"
+                      >
+                        Dadra and Nagar Haveli
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.tourismdddnh.in"
+                        target="_blank"
+                        title="Daman and Diu"
+                      >
+                        Daman and Diu
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.delhitourism.gov.in"
+                        target="_blank"
+                        title="Delhi"
+                      >
+                        Delhi
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.jktdc.co.in"
+                        target="_blank"
+                        title="Jammu and Kashmir"
+                      >
+                        Jammu and Kashmir
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://leh.nic.in"
+                        target="_blank"
+                        title="Ladakh"
+                      >
+                        Ladakh
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="https://www.lakshadweeptourism.com"
+                        target="_blank"
+                        title="Lakshadweep"
+                      >
+                        Lakshadweep
+                      </a>
+                    </li>
+                    <li>
+                      <a
+                        href="http://www.pondytourism.in"
+                        target="_blank"
+                        title="Puducherry"
+                      >
+                        Puducherry
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div
+                class="col-lg-3 col-md-6 footer-link-item"
+              >
+                <h5
+                  class="title title-xs"
+                >
+                  Contact Details
+                </h5>
+                <div
+                  class="state-tourism"
+                >
+                  <ul
+                    class="list-inline footer-nav list-inline"
+                  >
+                    <li
+                      target="_blank"
+                      title="Under Secretary (IT)"
+                    >
+                      Under Secretary (IT)
+                    </li>
+                    <li
+                      target="_blank"
+                      title="Ministry of Tourism,"
+                    >
+                      Ministry of Tourism,
+                    </li>
+                    <li
+                      target="_blank"
+                      title="126 Transport Bhawan"
+                    >
+                      126 Transport Bhawan
+                    </li>
+                    <li
+                      target="_blank"
+                      title="Sansad Marg,"
+                    >
+                      Sansad Marg,
+                    </li>
+                    <li
+                      target="_blank"
+                      title="New Delhi"
+                    >
+                      New Delhi
+                    </li>
+                    <li
+                      target="_blank"
+                      title="☏ +91-011 23311237"
+                    >
+                      ☏ +91-011 23311237
+                    </li>
+                    <li
+                      target="_blank"
+                      title="✉ info.mot@gov.in"
+                    >
+                      ✉ info.mot@gov.in
+                    </li>
+                  </ul>
+                </div>
+              </div>
+            </div>
+            <div
+              class="row"
+            >
+              <div
+                class="col-12"
+              >
+                <img
+                  alt="image"
+                  loading="lazy"
+                  src="inc-india-logo-white.svg"
+                />
+              </div>
+              <div
+                class="col-12 footer-bottom"
+              >
+                <p>
+                  India has a myriad of landscapes, great heritage and culture, varied flora and fauna. The country is the most preferred tourist destinations for tourists from all across the world for its picturesque landscapes, spectacular waterfalls, habitat of the country's largest tiger reserve and home to the warmest people on earth.
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+        <section
+          class="footer footer-nav-section"
+        >
+          <div
+            class="container"
+          >
+            <hr
+              class="footer-line "
+            />
+            <div
+              class="row"
+            >
+              <div
+                class="col-lg-12 col-md-12 footer-bottom"
+              >
+                <div
+                  class="state-tourism m-bottom-footer"
+                >
+                  <ul
+                    class="list-inline"
+                  >
+                    <li
+                      class="list-inline-item text-capitalize"
+                    >
+                      <a
+                        href="/content/incredible-india-v2/en/privacy-policy.html"
+                        target="_blank"
+                        title="Privacy policy"
+                      >
+                        Privacy policy
+                      </a>
+                    </li>
+                    <li
+                      class="list-inline-item text-capitalize text-white"
+                    >
+                      |
+                    </li>
+                    <li
+                      class="list-inline-item text-capitalize"
+                    >
+                      <a
+                        href="/content/incredible-india-v2/en/terms-of-platform-use.html"
+                        target="_blank"
+                        title="Terms of Platform Use"
+                      >
+                        Terms of Platform Use
+                      </a>
+                    </li>
+                    <li
+                      class="list-inline-item text-capitalize text-white"
+                    >
+                      |
+                    </li>
+                    <li
+                      class="list-inline-item text-capitalize"
+                    >
+                      <a
+                        href="/content/incredible-india-v2/en/important-links.html"
+                        target="_blank"
+                        title="Important Links"
+                      >
+                        Important Links
+                      </a>
+                    </li>
+                    <li
+                      class="list-inline-item text-capitalize text-white"
+                    >
+                      |
+                    </li>
+                    <li
+                      class="list-inline-item text-capitalize"
+                    >
+                      <a
+                        href="/content/incredible-india-v2/en/emergency.html"
+                        target="_blank"
+                        title="Emergency"
+                      >
+                        Emergency
+                      </a>
+                    </li>
+                  </ul>
+                </div>
+              </div>
+              <div
+                class="col-lg-12 col-md-12 footer-bottom"
+              >
+                <p
+                  class="text-right-m"
+                >
+                   © Ministry of Tourism, Government of India
+                </p>
+              </div>
+            </div>
+          </div>
+        </section>
+      </footer>
+    </div>
+  </body>,
+  "container": <div>
+    <footer>
+      <div
+        class="section no-title brand-section pb-5"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="owl-carousel brand-carousel owl-theme owl-loaded owl-drag"
+            data-size="9"
+          >
+            <div
+              class="owl-stage-outer"
+            >
+              <div
+                class="owl-stage"
+                style="transform: translate3d(0px, 0px, 0px); transition: all 0s linear 0s; width: 1101px;"
+              >
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="https://rtsoi.org"
+                      rel="noopener"
+                      target="_blank"
+                      title="Responsible Tourism Society of India (RTSOI)"
+                    >
+                      <img
+                        alt="Responsible Tourism Society of India (RTSOI)"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="RTSOI_Logo.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="https://indianvisaonline.gov.in/evisa/tvoa.html"
+                      rel="noopener"
+                      target="_blank"
+                      title="E-Visa"
+                    >
+                      <img
+                        alt="E-Visa"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="eivsa.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="https://www.india.gov.in/"
+                      rel="noopener"
+                      target="_blank"
+                      title="List of Indian Missions Abroad"
+                    >
+                      <img
+                        alt="List of Indian Missions Abroad"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="gov-india-logo.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="https://www.the-maharajas.com"
+                      rel="noopener"
+                      target="_blank"
+                      title="Maharaja"
+                    >
+                      <img
+                        alt="Maharaja"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="maharaja.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="https://www.iato.in"
+                      rel="noopener"
+                      target="_blank"
+                      title="IATO"
+                    >
+                      <img
+                        alt="IATO"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="iato.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="http://www.icpb.in"
+                      rel="noopener"
+                      target="_blank"
+                      title="ICPB"
+                    >
+                      <img
+                        alt="ICPB"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="icpb.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="http://www.atoai.org/"
+                      rel="noopener"
+                      target="_blank"
+                      title="ATOI"
+                    >
+                      <img
+                        alt="ATOI"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="atoai-color.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="http://www.indiahealthcaretourism.com/"
+                      rel="noopener"
+                      target="_blank"
+                      title="India Health Tourism"
+                    >
+                      <img
+                        alt="India Health Tourism"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="indian-healthcare-tourism.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+                <div
+                  class="owl-item active"
+                  style="width: 107.289px; margin-right: 15px;"
+                >
+                  <div
+                    class="item text-center"
+                  >
+                    <a
+                      class="no-underline"
+                      href="https://nabh.co"
+                      rel="noopener"
+                      target="_blank"
+                      title="NABH"
+                    >
+                      <img
+                        alt="NABH"
+                        class="img-fluid lazyloaded"
+                        loading="lazy"
+                        src="nabh.png"
+                      />
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <section
+        class="section footer footer-nav-section pt-5"
+      >
+        <div
+          class="container"
+        >
+          <div
+            class="row rowwise"
+          >
+            <div
+              class="col-lg-8 col-md-7 col-xl-7 footer-link-item"
+            >
+              <h5
+                class="title title-xs"
+              >
+                State Tourism Websites
+              </h5>
+              <div
+                class="state-tourism"
+              >
+                <ul
+                  class="list-inline footer-nav footer-important"
+                >
+                  <li>
+                    <a
+                      href="https://tourism.ap.gov.in"
+                      target="_blank"
+                      title="Andhra Pradesh"
+                    >
+                      Andhra Pradesh
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.arunachaltourism.com"
+                      target="_blank"
+                      title="Arunachal Pradesh"
+                    >
+                      Arunachal Pradesh
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://tourism.assam.gov.in"
+                      target="_blank"
+                      title="Assam"
+                    >
+                      Assam
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://tourism.bihar.gov.in"
+                      target="_blank"
+                      title="Bihar"
+                    >
+                      Bihar
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.chhattisgarhtourism.in"
+                      target="_blank"
+                      title="Chhattisgarh"
+                    >
+                      Chhattisgarh
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://goa-tourism.com"
+                      target="_blank"
+                      title="Goa"
+                    >
+                      Goa
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.arunachaltourism.com"
+                      target="_blank"
+                      title="Gujarat"
+                    >
+                      Gujarat
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://haryanatourism.gov.in"
+                      target="_blank"
+                      title="Haryana"
+                    >
+                      Haryana
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://himachaltourism.gov.in"
+                      target="_blank"
+                      title="Himachal Pradesh"
+                    >
+                      Himachal Pradesh
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://tourism.jharkhand.gov.in"
+                      target="_blank"
+                      title="Jharkhand"
+                    >
+                      Jharkhand
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.karnatakatourism.org"
+                      target="_blank"
+                      title="Karnataka"
+                    >
+                      Karnataka
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.keralatourism.org"
+                      target="_blank"
+                      title="Kerala"
+                    >
+                      Kerala
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.mptourism.com"
+                      target="_blank"
+                      title="Madhya Pradesh"
+                    >
+                      Madhya Pradesh
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.maharashtratourism.gov.in"
+                      target="_blank"
+                      title="Maharashtra"
+                    >
+                      Maharashtra
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://manipurtourism.gov.in"
+                      target="_blank"
+                      title="Manipur"
+                    >
+                      Manipur
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.meghalayatourism.in"
+                      target="_blank"
+                      title="Meghalaya"
+                    >
+                      Meghalaya
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://tourism.mizoram.gov.in"
+                      target="_blank"
+                      title="Mizoram"
+                    >
+                      Mizoram
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://tourism.nagaland.gov.in"
+                      target="_blank"
+                      title="Nagaland"
+                    >
+                      Nagaland
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://odishatourism.gov.in"
+                      target="_blank"
+                      title="Odisha"
+                    >
+                      Odisha
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://punjabtourism.punjab.gov.in"
+                      target="_blank"
+                      title="Punjab"
+                    >
+                      Punjab
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://tourism.rajasthan.gov.in"
+                      target="_blank"
+                      title="Rajasthan"
+                    >
+                      Rajasthan
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.sikkimtourism.gov.in"
+                      target="_blank"
+                      title="Sikkim"
+                    >
+                      Sikkim
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.tamilnadutourism.org"
+                      target="_blank"
+                      title="Tamil Nadu"
+                    >
+                      Tamil Nadu
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.telanganatourism.gov.in"
+                      target="_blank"
+                      title="Telangana"
+                    >
+                      Telangana
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://tripuratourism.gov.in"
+                      target="_blank"
+                      title="Tripura"
+                    >
+                      Tripura
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.uptourism.gov.in"
+                      target="_blank"
+                      title="Uttar Pradesh"
+                    >
+                      Uttar Pradesh
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://uttarakhandtourism.gov.in"
+                      target="_blank"
+                      title="Uttarakhand"
+                    >
+                      Uttarakhand
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.wbtourismgov.in"
+                      target="_blank"
+                      title="West Bengal"
+                    >
+                      West Bengal
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              class="col-lg-3 col-md-6 footer-link-item"
+            >
+              <h5
+                class="title title-xs"
+              >
+                UT Tourism Websites
+              </h5>
+              <div
+                class="state-tourism"
+              >
+                <ul
+                  class="list-inline footer-nav list-inline"
+                >
+                  <li>
+                    <a
+                      href="https://www.andaman.gov.in"
+                      target="_blank"
+                      title="Andaman and Nicobar"
+                    >
+                      Andaman and Nicobar
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://chandigarhtourism.gov.in"
+                      target="_blank"
+                      title="Chandigarh"
+                    >
+                      Chandigarh
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.tourismdddnh.in"
+                      target="_blank"
+                      title="Dadra and Nagar Haveli"
+                    >
+                      Dadra and Nagar Haveli
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.tourismdddnh.in"
+                      target="_blank"
+                      title="Daman and Diu"
+                    >
+                      Daman and Diu
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.delhitourism.gov.in"
+                      target="_blank"
+                      title="Delhi"
+                    >
+                      Delhi
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.jktdc.co.in"
+                      target="_blank"
+                      title="Jammu and Kashmir"
+                    >
+                      Jammu and Kashmir
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://leh.nic.in"
+                      target="_blank"
+                      title="Ladakh"
+                    >
+                      Ladakh
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="https://www.lakshadweeptourism.com"
+                      target="_blank"
+                      title="Lakshadweep"
+                    >
+                      Lakshadweep
+                    </a>
+                  </li>
+                  <li>
+                    <a
+                      href="http://www.pondytourism.in"
+                      target="_blank"
+                      title="Puducherry"
+                    >
+                      Puducherry
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              class="col-lg-3 col-md-6 footer-link-item"
+            >
+              <h5
+                class="title title-xs"
+              >
+                Contact Details
+              </h5>
+              <div
+                class="state-tourism"
+              >
+                <ul
+                  class="list-inline footer-nav list-inline"
+                >
+                  <li
+                    target="_blank"
+                    title="Under Secretary (IT)"
+                  >
+                    Under Secretary (IT)
+                  </li>
+                  <li
+                    target="_blank"
+                    title="Ministry of Tourism,"
+                  >
+                    Ministry of Tourism,
+                  </li>
+                  <li
+                    target="_blank"
+                    title="126 Transport Bhawan"
+                  >
+                    126 Transport Bhawan
+                  </li>
+                  <li
+                    target="_blank"
+                    title="Sansad Marg,"
+                  >
+                    Sansad Marg,
+                  </li>
+                  <li
+                    target="_blank"
+                    title="New Delhi"
+                  >
+                    New Delhi
+                  </li>
+                  <li
+                    target="_blank"
+                    title="☏ +91-011 23311237"
+                  >
+                    ☏ +91-011 23311237
+                  </li>
+                  <li
+                    target="_blank"
+                    title="✉ info.mot@gov.in"
+                  >
+                    ✉ info.mot@gov.in
+                  </li>
+                </ul>
+              </div>
+            </div>
+          </div>
+          <div
+            class="row"
+          >
+            <div
+              class="col-12"
+            >
+              <img
+                alt="image"
+                loading="lazy"
+                src="inc-india-logo-white.svg"
+              />
+            </div>
+            <div
+              class="col-12 footer-bottom"
+            >
+              <p>
+                India has a myriad of landscapes, great heritage and culture, varied flora and fauna. The country is the most preferred tourist destinations for tourists from all across the world for its picturesque landscapes, spectacular waterfalls, habitat of the country's largest tiger reserve and home to the warmest people on earth.
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+      <section
+        class="footer footer-nav-section"
+      >
+        <div
+          class="container"
+        >
+          <hr
+            class="footer-line "
+          />
+          <div
+            class="row"
+          >
+            <div
+              class="col-lg-12 col-md-12 footer-bottom"
+            >
+              <div
+                class="state-tourism m-bottom-footer"
+              >
+                <ul
+                  class="list-inline"
+                >
+                  <li
+                    class="list-inline-item text-capitalize"
+                  >
+                    <a
+                      href="/content/incredible-india-v2/en/privacy-policy.html"
+                      target="_blank"
+                      title="Privacy policy"
+                    >
+                      Privacy policy
+                    </a>
+                  </li>
+                  <li
+                    class="list-inline-item text-capitalize text-white"
+                  >
+                    |
+                  </li>
+                  <li
+                    class="list-inline-item text-capitalize"
+                  >
+                    <a
+                      href="/content/incredible-india-v2/en/terms-of-platform-use.html"
+                      target="_blank"
+                      title="Terms of Platform Use"
+                    >
+                      Terms of Platform Use
+                    </a>
+                  </li>
+                  <li
+                    class="list-inline-item text-capitalize text-white"
+                  >
+                    |
+                  </li>
+                  <li
+                    class="list-inline-item text-capitalize"
+                  >
+                    <a
+                      href="/content/incredible-india-v2/en/important-links.html"
+                      target="_blank"
+                      title="Important Links"
+                    >
+                      Important Links
+                    </a>
+                  </li>
+                  <li
+                    class="list-inline-item text-capitalize text-white"
+                  >
+                    |
+                  </li>
+                  <li
+                    class="list-inline-item text-capitalize"
+                  >
+                    <a
+                      href="/content/incredible-india-v2/en/emergency.html"
+                      target="_blank"
+                      title="Emergency"
+                    >
+                      Emergency
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+            <div
+              class="col-lg-12 col-md-12 footer-bottom"
+            >
+              <p
+                class="text-right-m"
+              >
+                 © Ministry of Tourism, Government of India
+              </p>
+            </div>
+          </div>
+        </div>
+      </section>
+    </footer>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

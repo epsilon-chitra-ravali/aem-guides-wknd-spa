@@ -24,6 +24,7 @@ function CarousalDescription() {
               setDescriptionText("more");
             }}
             className="readText"
+            data-testid="read-more"
           >
             Read More
           </span>
@@ -58,6 +59,7 @@ function CarousalDescription() {
               setDescriptionText("less");
             }}
             className="readText"
+            data-testid="read-less"
           >
             Read less
           </span>

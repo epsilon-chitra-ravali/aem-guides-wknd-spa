@@ -149,10 +149,10 @@ function Header() {
             <div className="collapse navbar-collapse" id="navbarContent">
               <ul className="navbar-nav mr-auto">
                 <li className="dropdown dropdown-megamenu nav-item" data-tags="inc-v2:region/e,inc-v2:region/w,inc-v2:region/c,inc-v2:region/ne,inc-v2:region/n,inc-v2:region/s">
-                  <h3 className="dropdown-toggle nav-link" onClick={expandDestinationsMenu} title="Destinations"  >Destinations</h3>
+                  <h3 className="dropdown-toggle nav-link" onClick={expandDestinationsMenu} title="Destinations" data-testid="destinations" >Destinations</h3>
                   {expandDestinations && <div className="dropdown-container Destinations">
                     <div className="container pt-5">
-                      <div className="row">
+                      <div className="row" data-testid="destinations-options">
                         {destinations.map((item) => (
                           <div className="col-6 col-md-3 col-lg-2 mb-5">
                             <a href={item.url} className="no-underline menu-card-item" title={item.caption}>
@@ -176,10 +176,10 @@ function Header() {
                   </div>}
                 </li>
                 <li className="dropdown dropdown-megamenu nav-item" data-tags="inc-v2:region/e,inc-v2:region/w,inc-v2:region/c,inc-v2:region/ne,inc-v2:region/n,inc-v2:region/s">
-                  <h3 onClick={expandExperiencesMenu} title="Experiences" className="dropdown-toggle nav-link" >Experiences</h3>
+                  <h3 onClick={expandExperiencesMenu} title="Experiences" className="dropdown-toggle nav-link" data-testid="experiences" >Experiences</h3>
                   {expandExperiences && <div className="dropdown-container Experiences">
                     <div className="container pt-5">
-                      <div className="row">
+                      <div className="row" data-testid="experiences-options">
                         {experiences.map((item) => (
                           <div className="col-6 col-md-3 col-lg-2 mb-5">
                             <a href={item.url} className="no-underline menu-card-item" title={item.caption}>
@@ -203,10 +203,10 @@ function Header() {
                   </div>}
                 </li>
                 <li className="dropdown dropdown-megamenu nav-item" data-tags="inc-v2:region/e,inc-v2:region/w,inc-v2:region/c,inc-v2:region/ne,inc-v2:region/n,inc-v2:region/s">
-                  <h3 onClick={expandTravelMenu} title="Travel" className="dropdown-toggle nav-link">Travel</h3>
+                  <h3 onClick={expandTravelMenu} title="Travel" className="dropdown-toggle nav-link" data-testid="travel">Travel</h3>
                   {expandTravel && <div className="dropdown-container Travel">
                     <div className="container pt-5">
-                      <div className="row">
+                      <div className="row" data-testid="travel-options">
                         {travel.map((item) => (
                           <div className="col-6 col-md-3 col-lg-2 mb-5">
                             <a href={item.url} className="no-underline menu-card-item" title={item.caption}>

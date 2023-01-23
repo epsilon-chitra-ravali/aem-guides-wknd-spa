@@ -35,7 +35,7 @@ function HomeCarousel() {
 
   return (
     <div className="carousel-parent">
-      <Carousel activeIndex={index} onSelect={handleSelect}>
+      <Carousel activeIndex={index} onSelect={handleSelect} data-testid="handle-select">
         {data.map((slide, i) => {
           return (
             <Carousel.Item>
